@@ -73,10 +73,10 @@ For the above Joomla would create the namespace prefix:
 
 ## Capitalisation 
 
-**Be careful to ensure that capitalisation within parts of the fully qualified classname matches capitalisation within
-the names of directories and files! If you develop on Windows but your target system is linux you may find that your 
+Be careful to **ensure that capitalisation within parts of the fully qualified classname matches capitalisation within
+the names of directories and files**! If you develop on Windows but your target system is linux you may find that your 
 extension works on your development machine but not on your target system. This is because Windows is forgiving if you 
-have wrong capitalisation in your filenames or directory names – it will still open the file for you – but linux isn't.**
+have wrong capitalisation in your filenames or directory names – it will still open the file for you – but linux isn't.
 
 ## Finding your Classes
 
